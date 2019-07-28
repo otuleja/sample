@@ -1,3 +1,3 @@
 const initialMasterFunction = () => {
-  return "Hello World"
+  return "Overwriting on branched content"
 }
