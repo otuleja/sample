@@ -1,0 +1,3 @@
+const newBranchContent = () => {
+  return "wasssup"
+}
