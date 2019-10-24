@@ -13,3 +13,5 @@ const f = () => {
 const also = () => {
   console.log('also changed master 5:32pm')
 }
+
+const aTrivialChange = ""
